@@ -237,6 +237,7 @@ li.move-right {
     flex-direction: column;
     background: #191919;
     z-index: 999;
+    overflow-y: scroll;
   }
 
   .nav-list li {
